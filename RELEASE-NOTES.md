@@ -1,0 +1,1 @@
+AI Content Agent 0.21.0.21 controlled engineering prerelease. GitHub release source adapter, signed catalog metadata and nonblocking startup discovery. Not Employee Production. Facebook writes disabled. No user-data migration.
